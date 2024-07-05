@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
-import AppLab from './AppLab.vue'
+import ComputedLab from './basic/ComputedLab.vue'
 
-const app = createApp(AppLab)
+const app = createApp(ComputedLab)
 
 app.mount('#app')
