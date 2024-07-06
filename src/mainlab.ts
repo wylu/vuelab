@@ -1,8 +1,6 @@
 import { createApp } from 'vue'
-// import ListLab from './basic/ListLab.vue'
-import TodoLab from './basic/TodoLab.vue'
+import EventLab from './basic/EventLab.vue'
 
-// const app = createApp(ListLab)
-const app = createApp(TodoLab)
+const app = createApp(EventLab)
 
 app.mount('#app')

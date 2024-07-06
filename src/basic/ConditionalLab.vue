@@ -18,4 +18,5 @@ import { ref } from "vue";
 
 const awesome = ref(true)
 const ok = ref(true)
+const type = ref('D')
 </script>
