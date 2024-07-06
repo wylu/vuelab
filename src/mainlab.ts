@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
-import FormLab from './basic/FormLab.vue'
+import LifecycleLab from './basic/LifecycleLab.vue'
 
-const app = createApp(FormLab)
+const app = createApp(LifecycleLab)
 
 app.mount('#app')
