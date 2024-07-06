@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
-import LifecycleLab from './basic/LifecycleLab.vue'
+import WatcherLab from './basic/WatcherLab.vue'
 
-const app = createApp(LifecycleLab)
+const app = createApp(WatcherLab)
 
 app.mount('#app')
