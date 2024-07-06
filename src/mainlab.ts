@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
-import WatcherLab from './basic/WatcherLab.vue'
+import TempleteRefLab from './basic/TempleteRefLab.vue'
 
-const app = createApp(WatcherLab)
+const app = createApp(TempleteRefLab)
 
 app.mount('#app')
