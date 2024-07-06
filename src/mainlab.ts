@@ -1,6 +1,6 @@
 import { createApp } from 'vue'
-import EventLab from './basic/EventLab.vue'
+import FormLab from './basic/FormLab.vue'
 
-const app = createApp(EventLab)
+const app = createApp(FormLab)
 
 app.mount('#app')
