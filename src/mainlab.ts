@@ -1,6 +1,8 @@
 import { createApp } from 'vue'
-import ConditionalLab from './basic/ConditionalLab.vue'
+// import ListLab from './basic/ListLab.vue'
+import TodoLab from './basic/TodoLab.vue'
 
-const app = createApp(ConditionalLab)
+// const app = createApp(ListLab)
+const app = createApp(TodoLab)
 
 app.mount('#app')
